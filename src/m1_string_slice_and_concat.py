@@ -1,7 +1,7 @@
 txt = "  The quick brown fox jumps over the lazy dog.  "
 
 ###############################################################################
-# TODO: 1. (1 pt)
+# DONE: 1. (1 pt)
 #   Notice the string   txt   that I have defined above. First, let's clear up
 #   those extra spaces.
 #
@@ -16,6 +16,7 @@ txt = "  The quick brown fox jumps over the lazy dog.  "
 #
 #   Once you have done this, then change the above _TODO_ to DONE.
 ###############################################################################
+txt=txt.strip()
 
 ###############################################################################
 # TODO: 2. (1 pt)
