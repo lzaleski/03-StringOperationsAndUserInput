@@ -34,7 +34,7 @@ txt=txt.strip()
 a=txt[4:9]
 print(a)
 ###############################################################################
-# TODO: 3. (1 pt)
+# DONE: 3. (1 pt)
 #   Let's add another sentence to our string.
 #
 #   Immediately below this _TODO_, write code that:
