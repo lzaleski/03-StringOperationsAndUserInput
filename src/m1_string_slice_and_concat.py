@@ -19,7 +19,7 @@ txt = "  The quick brown fox jumps over the lazy dog.  "
 txt=txt.strip()
 
 ###############################################################################
-# TODO: 2. (1 pt)
+# DONE: 2. (1 pt)
 #   From now on, do not reassign the variable   txt   . You will be using it as
 #   your starter string for the rest of these exercises.
 #
@@ -31,7 +31,8 @@ txt=txt.strip()
 #
 #   Once you have done this, then change the above _TODO_ to DONE.
 ###############################################################################
-
+a=txt[4:9]
+print(a)
 ###############################################################################
 # TODO: 3. (1 pt)
 #   Let's add another sentence to our string.
@@ -46,3 +47,6 @@ txt=txt.strip()
 #
 #   Once you have done this, then change the above _TODO_ to DONE.
 ###############################################################################
+b=" My once great dog is dead."
+d=txt+b
+print(d)
