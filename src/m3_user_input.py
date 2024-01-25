@@ -27,6 +27,8 @@
 #
 #   Once you have done this, then change the above _TODO_ to DONE.
 ###############################################################################
+name=input("Enter username:" )
+print(f"Hello {name}! It is so lovely to code with you! :)")
 
 ###############################################################################
 # TODO: 2. (5 pt)
@@ -72,3 +74,6 @@
 #
 #   Once you have done this, then change the above _TODO_ to DONE.
 ###############################################################################
+FavNum=input("What is your favorite number:" )
+
+print({name}, your favorite number is {FavNum}. That is great!)
