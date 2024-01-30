@@ -76,4 +76,4 @@ print(f"Hello {name}! It is so lovely to code with you! :)")
 ###############################################################################
 FavNum=(input(f"What is your favorite number:"))
 numero=int(FavNum)
-print(f"{name}, your favorite number is {numero}. I hope you picked a real number.")
+print(f"{name}, your favorite number is {numero}, cool.")
